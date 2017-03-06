@@ -1,0 +1,68 @@
+.introL{
+  font-size: 20px;
+  color: blue;
+  border: solid 3px red;`
+}
+.contact{
+  font-size: 20px;
+  color :red;
+  border: solid 4px blue;
+  align:bottom;
+}
+.beautify{
+  font-size: 20px;
+  font-family: Impact;
+  color: blue;
+}
+.list{
+  font-style: oblique;
+  font-size: 20px;
+  color: green;
+}
+.intro{
+  font-style: italic;
+  font-size: 30px;
+  color: orange;
+}
+.heading{
+  font-family: sans-serif;
+  font-size: 35px;
+}
+.table{
+  font-weight: lighter;
+  font-size: 20px;
+
+}
+.mainBody{
+   /*background: url(286.jpg);*/
+   background-size: 1300px 700px;
+   background-repeat: no-repeat;
+}
+.button{
+  border: solid 5px purple;
+  padding: 9px;
+  background-color: white;
+  margin-right: 1100px;
+  align-self: center;
+  align-items: center;
+  align-content: center;
+  align : center;
+
+}
+.alpha{
+  margin-left: 50px;
+  margin-top: 290px;
+  margin-right: 50px;
+  margin-bottom:  100px;
+  border: solid 10px blue;
+  padding-left: 130px;
+  padding-right: 100px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 30px;
+  color: red;
+
+  /*align-self: center;
+  align-items: center;
+  align-content: center;*/
+}
